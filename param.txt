@@ -1,0 +1,8 @@
+Mx_head : log_marginal_likelihood
+-5465.010251825498 {'k1': RBF(length_scale=0.0203), 'k2': WhiteKernel(noise_level=0.67), 'k1__length_scale': 0.02031481027355439, 'k1__length_scale_bounds': (1e-05, 100000.0), 'k2__noise_level': 0.6695067826538434, 'k2__noise_level_bounds': (1e-05, 100000.0)}
+My_head : log_marginal_likelihood
+-5452.104366612584 {'k1': RBF(length_scale=0.872), 'k2': WhiteKernel(noise_level=0.963), 'k1__length_scale': 0.8719613996309041, 'k1__length_scale_bounds': (1e-05, 100000.0), 'k2__noise_level': 0.962867607746031, 'k2__noise_level_bounds': (1e-05, 100000.0)}
+Mx_tail : log_marginal_likelihood
+-5468.744384385047 {'k1': RBF(length_scale=0.117), 'k2': WhiteKernel(noise_level=0.902), 'k1__length_scale': 0.11749192032406552, 'k1__length_scale_bounds': (1e-05, 100000.0), 'k2__noise_level': 0.901574395122001, 'k2__noise_level_bounds': (1e-05, 100000.0)}
+My : log_marginal_likelihood
+-5450.496914796033 {'k1': RBF(length_scale=1.28), 'k2': WhiteKernel(noise_level=0.966), 'k1__length_scale': 1.2806123053419414, 'k1__length_scale_bounds': (1e-05, 100000.0), 'k2__noise_level': 0.9664195512292841, 'k2__noise_level_bounds': (1e-05, 100000.0)}
